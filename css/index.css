@@ -1,0 +1,10 @@
+h1{
+  color:#4167;
+}
+body{
+  background-color: #9431;
+}
+ul li:hover{
+  color: blue;
+  cursor: alias;
+}
